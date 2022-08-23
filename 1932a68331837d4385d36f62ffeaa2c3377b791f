@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc79bf8f_b39b3206",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000001
+      },
+      "writtenOn": "2022-08-23T18:22:51Z",
+      "side": 1,
+      "message": "No abnormal denials on my device.",
+      "revId": "1932a68331837d4385d36f62ffeaa2c3377b791f",
+      "serverId": "82c648e1-0f2a-489e-ab9c-83444301176e"
+    }
+  ]
+}
